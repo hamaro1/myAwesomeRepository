@@ -7,3 +7,4 @@ this is from another branch
 this makes so much sense to me now :)
 this another line to add from this branch
 >>>>>>> branch1
+this is from BRANCH 2
